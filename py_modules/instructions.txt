@@ -1,0 +1,1 @@
+copy paste the contents in: 'C:\Users\an.kandala\Anaconda3\envs\QIM_coding\Lib\site-packages'
